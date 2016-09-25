@@ -1,6 +1,6 @@
 {
   "name": "mceliece",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js Library for the Post-Quantum McEliece Cryptosystem",
   "main": "mceliece.js",
   "scripts": {

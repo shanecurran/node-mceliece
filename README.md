@@ -1,6 +1,11 @@
 # node-mceliece
 Node.js Library for the Post-Quantum McEliece Cryptosystem
 
+## Install
+```bash
+npm install mceliece
+```
+
 ## Usage
 
 ```javascript
