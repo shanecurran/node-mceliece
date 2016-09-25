@@ -1,0 +1,27 @@
+{
+  "name": "node-mceliece",
+  "version": "1.0.0",
+  "description": "Node.js Library for the Post-Quantum McEliece Cryptosystem",
+  "main": "mceliece.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narruc/node-mceliece.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mceliece",
+    "post-quantum",
+    "crypto",
+    "code-based",
+    "merkle"
+  ],
+  "author": "Shane Curran",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/narruc/node-mceliece/issues"
+  },
+  "homepage": "https://github.com/narruc/node-mceliece#readme"
+}
