@@ -1,5 +1,5 @@
 # node-mceliece
-Node.js Library for the Post-Quantum McEliece Cryptosystem
+Node.js Library for the Post-Quantum McEliece Cryptosystem. Built for [qCrypt](https://qcry.pt/)
 
 ## Install
 ```bash
